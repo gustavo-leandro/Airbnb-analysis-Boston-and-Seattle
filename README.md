@@ -32,6 +32,6 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-The data is in [Public Domain] (https://creativecommons.org/publicdomain/zero/1.0/). You can find other information at the Kaggle link available here for [Boston](https://www.kaggle.com/airbnb/boston) and [Seattle] (https://www.kaggle.com/airbnb/seattle).  Feel free to use the code here as you would like! 
+The data is in the [public domain](https://creativecommons.org/publicdomain/zero/1.0/). You can find other information at the Kaggle link available here for [Boston](https://www.kaggle.com/airbnb/boston) and [Seattle] (https://www.kaggle.com/airbnb/seattle).  Feel free to use the code here as you would like! 
 
 == End ==
