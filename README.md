@@ -28,7 +28,7 @@ There are 2 .csv files with data for each city. The **calendar** file with the a
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://gustavo-sleandro.medium.com/when-and-where-to-stay-on-an-airbnb-in-boston-and-seattle-37585f9dead2).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
